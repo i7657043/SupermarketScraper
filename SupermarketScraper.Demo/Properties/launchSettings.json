@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SupermarketScraper.Demo": {
+      "commandName": "Project",
+      "commandLineArgs": "scrape -t"
+    }
+  }
+}
